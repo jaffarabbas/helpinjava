@@ -1,5 +1,5 @@
 
- class Main 
+ class Main //proctedd
 {
    protected int a;
 
