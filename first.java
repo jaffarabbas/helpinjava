@@ -17,6 +17,11 @@ class Main
 class first
 {
     public static void main(String[] args) throws Exception  {
-       
+       Main obj = new Main();
+
+       Method m = Main.class.getDeclaredMethod("name");
+       m.setAccessible(true);
+
+       m.invoke(obj);
     }
 }
