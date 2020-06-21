@@ -8,7 +8,7 @@ class Main
     private String var1;
 
     private void name() {
-        int a = 4;
+        int a = 43;
         System.out.println(a);
     }
 }
