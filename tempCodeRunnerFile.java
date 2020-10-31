@@ -1,3 +1,1 @@
-       // if(br.readLine() == "10"){
-            //        System.out.println("Number 10:");
-            // }
+                // System.out.println("Index i : "+i+"\n j : "+j);
