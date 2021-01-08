@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cmdexicuteable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cmdexicuteable_jar</output-path>
+    <root id="archive" name="cmdexicuteable.jar">
+      <element id="module-output" name="cmdexicuteable" />
+    </root>
+  </artifact>
+</component>
